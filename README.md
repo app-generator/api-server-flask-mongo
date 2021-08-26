@@ -17,7 +17,7 @@ It has all the ready-to-use bare minimum essentials.
 
 <br />
 
-> **[Free Version](https://github.com/app-generator/api-server-flask-pro)** available: SQLite persistance, Unitary Tests, 24/7 LIVE Support via [Discord](https://discord.gg/fZC6hup)
+> **[Free Version](https://github.com/app-generator/api-server-flask)** available: SQLite persistance, Unitary Tests, 24/7 LIVE Support via [Discord](https://discord.gg/fZC6hup)
 
 > Can be used with other [React Starters](https://appseed.us/apps/react) for a complete **Full-Stack** experience:
 
