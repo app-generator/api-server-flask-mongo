@@ -41,27 +41,27 @@ It has all the ready-to-use bare minimum essentials.
 
 ## Getting Started
 
-clone the project (private repository)
+**Step #1** - clone the project (private repository)
 
 ```bash
 $ git clone https://github.com/app-generator/priv-api-server-flask-pro.git
 $ cd priv-api-server-flask-pro
 ```
 
-create virtual environment using python3 and activate it (keep it outside our project directory)
+**Step #2** - create virtual environment using python3 and activate it (keep it outside our project directory)
 
 ```bash
 $ python3 -m venv /path/to/your/virtual/environment
 $ source <path/to/venv>/bin/activate
 ```
 
-install dependencies in virtualenv
+**Step #3** - install dependencies in virtualenv
 
 ```bash
 $ pip install -r requirements.txt
 ```
 
-setup `flask` command for our app
+**Step #4** - setup `flask` command for our app
 
 ```bash
 $ export FLASK_APP=run.py
@@ -78,7 +78,7 @@ $ (Powershell) $env:FLASK_APP = ".\run.py"
 $ (Powershell) $env:FLASK_ENV = "development"
 ```
 
-start test APIs server at `localhost:5000`
+**Step #5** - start test APIs server at `localhost:5000`
 
 ```bash
 $ python run.py
@@ -88,8 +88,9 @@ or
 $ flask run
 ```
 
-use `flask-restx`' swagger dashboard to test APIs, or use `POSTMAN`
+**Step #6** - use `flask-restx`' swagger dashboard to test APIs, or use `POSTMAN`
 
+<br />
 
 ## Project Structure
 
@@ -135,6 +136,8 @@ This application uses the following modules
  - flask-restx==0.4.0
  - Flask-JWT-Extended
  - pytest
+
+<br />
 
 ## Testing
 
