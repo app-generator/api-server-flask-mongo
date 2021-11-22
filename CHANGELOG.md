@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.0.1] 2021-11-16
+### Improvements - Main Branch
+
+- Tables automatic creation
+- Dependencies Update:
+  - Flask==2.0.2
+  - flask-restx==0.5.1
+- Docker Scripts 
+
 ## [v1.0.0-rc2] 2021-08-21
 
 ### Stable release - Mongo branch

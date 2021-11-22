@@ -51,8 +51,13 @@ $ cd priv-api-server-flask-pro
 **Step #2** - create virtual environment using python3 and activate it (keep it outside our project directory)
 
 ```bash
-$ python3 -m venv /path/to/your/virtual/environment
-$ source <path/to/venv>/bin/activate
+$ # Virtualenv modules installation (Unix based systems)
+$ virtualenv env
+$ source env/bin/activate
+$
+$ # Virtualenv modules installation (Windows based systems)
+$ # virtualenv env
+$ # .\env\Scripts\activate
 ```
 
 **Step #3** - install dependencies in virtualenv
