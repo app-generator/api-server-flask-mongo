@@ -10,7 +10,7 @@ It has all the ready-to-use bare minimum essentials.
 - [API Definition](https://docs.appseed.us/boilerplate-code/api-unified-definition) - the unified API structure implemented by this server
 - Simple JWT API powered by `flask-restx` and `flask_jwt_extended`
 - Authentication with JWT (JWT login, JWT logout, Register)
-- **Mongo**:  MongoDB Persistance
+- **Persistance**:  ``MongoDB`
 - Unitary tests, Docker
 - [API Interface Descriptor](https://github.com/app-generator/api-server-unified/blob/main/api.postman_collection.json): POSTMAN Collection
 
