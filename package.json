@@ -1,0 +1,20 @@
+{
+    "name": "priv-api-server-flask-pro",
+    "version": "0.0.1",
+    "description": "Flask API Server - AppSeed",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/app-generator/priv-api-server-flask-pro"
+    },
+    "bugs": {
+        "url": "https://github.com/app-generator/api-server-flask-pro/issues",
+        "email": "support@appseed.us"
+    },
+    "author": "AppSeed App Generator <support@appseed.us> (https://appseed.us)",
+    "engines": {
+        "node": ">=10.0.0"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
