@@ -49,8 +49,8 @@ It has all the ready-to-use bare minimum essentials.
 clone the project
 
 ```bash
-$ git clone https://github.com/app-generator/priv-api-server-flask-pro.git
-$ cd priv-api-server-flask-pro
+$ git clone https://github.com/app-generator/api-server-flask-mongo.git
+$ cd api-server-flask-mongo
 ```
 
 create virtual environment using python3 and activate it (keep it outside our project directory)
