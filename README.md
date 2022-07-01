@@ -1,4 +1,4 @@
-## Flask API Server Mongo
+## Flask API Server `Mongo`
 
 Flask Starter with JWT authentication, and **SQLite** persistance - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
 It has all the ready-to-use bare minimum essentials.
@@ -7,28 +7,20 @@ It has all the ready-to-use bare minimum essentials.
 
 > Features:
 
+- `Up-to-date dependencies` 
 - [API Definition](https://docs.appseed.us/boilerplate-code/api-unified-definition) - the unified API structure implemented by this server
 - Simple JWT API powered by `flask-restx` and `flask_jwt_extended`
 - Authentication with JWT (JWT login, JWT logout, Register)
 - **Persistance**:  `MongoDB`
 - Unitary tests, Docker
-- [API Interface Descriptor](https://github.com/app-generator/api-server-unified/blob/main/api.postman_collection.json): POSTMAN Collection
-
 
 <br />
 
-> Can be used with other UI projects for a complete **fullstack** experience  
+> Can be used with other [React Starters](https://appseed.us/apps/react) for a complete **Full-Stack** experience:
 
-- [React Berry Dashboard](https://github.com/app-generator/react-berry-admin-template) - open-source sample
-- [React Datta Dashboard](https://github.com/app-generator/react-datta-able-dashboard) - open-source sample
-- [React Datta Dashboard PRO](https://appseed.us/product/react-node-js-datta-able-pro) - commercial fullstack product
-
-<br />
-
-> Support: 
-
-- Github (issues tracker), Email: **support @ appseed.us** 
-- **Discord**: [LIVE Support](https://discord.gg/fZC6hup) (registered AppSeed Users) 
+| [React Node JS Berry](https://appseed.us/product/berry-dashboard/api-server-nodejs/react/) | [React Node Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) | [React Node Horizon](https://appseed.us/product/horizon-ui/api-server-nodejs/) |
+| --- | --- | --- |
+| [![React Node JS Berry](https://user-images.githubusercontent.com/51070104/176936514-f1bccb21-bafe-4b43-9e4c-b6fe0ec9511d.png)](https://appseed.us/product/berry-dashboard/api-server-nodejs/react/) | [![React Node Soft Dashboard](https://user-images.githubusercontent.com/51070104/176936814-74386559-4e05-43d5-b9a4-8f70ce96a610.png)](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) | [![React Node Horizon](https://user-images.githubusercontent.com/51070104/174428337-181e6dea-0ad9-4fe1-a35f-25e5fa656a9d.png)](https://appseed.us/product/horizon-ui/api-server-nodejs/)
 
 <br />
 
@@ -149,4 +141,4 @@ Run tests using `pytest tests.py`
 <br />
 
 ---
-Flask API Server - provided by AppSeed [App Generator](https://appseed.us)
+Flask API Server `Mongo` - provided by AppSeed [App Generator](https://appseed.us)
