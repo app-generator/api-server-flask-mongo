@@ -1,4 +1,4 @@
-## Flask API Server `Mongo`
+## [Flask API Server - Mongo](https://github.com/app-generator/api-server-flask-mongo)
 
 Flask Starter with JWT authentication, and **SQLite** persistance - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
 It has all the ready-to-use bare minimum essentials.
@@ -7,12 +7,12 @@ It has all the ready-to-use bare minimum essentials.
 
 > Features:
 
-- `Up-to-date dependencies` 
-- [API Definition](https://docs.appseed.us/boilerplate-code/api-unified-definition) - the unified API structure implemented by this server
-- Simple JWT API powered by `flask-restx` and `flask_jwt_extended`
-- Authentication with JWT (JWT login, JWT logout, Register)
-- **Persistance**:  `MongoDB`
-- Unitary tests, Docker
+- ✅ `Up-to-date dependencies` 
+- ✅ [API Definition](https://docs.appseed.us/boilerplate-code/api-unified-definition) - the unified API structure implemented by this server
+- ✅ Simple JWT API powered by `flask-restx` and `flask_jwt_extended`
+- ✅ Authentication with JWT (JWT login, JWT logout, Register)
+- ✅ **Persistance**:  `MongoDB`
+- ✅ Unitary tests, Docker
 
 <br />
 
@@ -141,4 +141,4 @@ Run tests using `pytest tests.py`
 <br />
 
 ---
-Flask API Server `Mongo` - provided by AppSeed [App Generator](https://appseed.us)
+[Flask API Server - Mongo](https://github.com/app-generator/api-server-flask-mongo) - provided by AppSeed [App Generator](https://appseed.us)
