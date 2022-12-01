@@ -1,5 +1,11 @@
 # Change Log
 
+## [v1.0.3] 2022-12-01
+### Changes
+
+- Deps Update
+- Fix runtime issues
+
 ## [v1.0.2] 2022-06-18
 ### Improvements
 
